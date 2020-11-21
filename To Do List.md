@@ -1,10 +1,10 @@
-#////// To do List //////
+# ////// To do List //////
 
-#	Make a tile set <- Done.
-	Design a basic map <- Done.
-	Do basic movement <- Done.
-	Make sprites <- Halfway there
-	Randomized map
+#		Make a tile set <- Done.
+		Design a basic map <- Done.
+		Do basic movement <- Done.
+		Make sprites <- Halfway there
+#	Randomized map
 		-Make a tile palette with already built in presets with your tileset
 			-Starting zone must have 4 paths going out
 			-A room with no left door can't have a right door room connected to it.
@@ -28,7 +28,7 @@
 				// So far thats what I thought of //
 
 
-#	-Make menü screen.
+#	-Make menu screen.
 		-New game
 		-Load game
 			-3 save files

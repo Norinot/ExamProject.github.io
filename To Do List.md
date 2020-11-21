@@ -1,6 +1,6 @@
 # ////// To do List //////
 
-#		Make a tile set <- Done.
+		Make a tile set <- Done.
 		Design a basic map <- Done.
 		Do basic movement <- Done.
 		Make sprites <- Halfway there

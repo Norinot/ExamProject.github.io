@@ -1,2 +1,0 @@
-# Ezt mind én
- 
